@@ -1,0 +1,1 @@
+var pages = [{"name":"inline fun <R> synchronized(lock: Any, block: () -> R): R","description":"mpp.synchronized","location":"mobiuskt-internal/mpp/synchronized.html","searchKeys":["synchronized","inline fun <R> synchronized(lock: Any, block: () -> R): R"]}]

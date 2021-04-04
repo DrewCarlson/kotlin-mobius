@@ -1,0 +1,8 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+
+kt.mobius
+kt.mobius.disposables
+kt.mobius.functions
+kt.mobius.runners
+

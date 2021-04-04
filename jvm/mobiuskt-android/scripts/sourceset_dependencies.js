@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":jvm:mobiuskt-android:dokkaHtml/androidAndroidTestRelease": [], ":jvm:mobiuskt-android:dokkaHtml/androidDebug": [], ":jvm:mobiuskt-android:dokkaHtml/androidMain": [":jvm:mobiuskt-android:dokkaHtml/commonMain"], ":jvm:mobiuskt-android:dokkaHtml/androidRelease": [], ":jvm:mobiuskt-android:dokkaHtml/commonMain": []}'
